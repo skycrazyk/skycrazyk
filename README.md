@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @skycrazyk
 - 👀 I’m interested in frontend development and few kinds of "board" sports like (snow | skate | long | serf) board 
-- 🌱 I’m currently learning all about react, typescript and game development (a little bit)
-- 💞️ I’m looking to collaborate on --- (I actualy don't have time for that)
+- 🌱 I’m currently learning all about react, typescript, AI
 - 📫 How to reach me ... email and https://t.me/skycrazyk are the best endpoints for this 
 
 <!---
